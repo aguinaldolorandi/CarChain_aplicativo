@@ -8,6 +8,7 @@ A imagem é processada através da API do OpenALPR (precisa de cadastro).
 
 Fontes:
 https://www.openalpr.com/
+
 https://github.com/victor-torres/sinesp-client
 
 
